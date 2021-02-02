@@ -1,0 +1,10 @@
+C:\Users\GreensTech5\source\repos\Selenium2\bin\Debug\Selenium2.exe.config
+C:\Users\GreensTech5\source\repos\Selenium2\bin\Debug\Selenium2.exe
+C:\Users\GreensTech5\source\repos\Selenium2\bin\Debug\Selenium2.pdb
+C:\Users\GreensTech5\source\repos\Selenium2\bin\Debug\WebDriver.dll
+C:\Users\GreensTech5\source\repos\Selenium2\bin\Debug\WebDriver.xml
+C:\Users\GreensTech5\source\repos\Selenium2\obj\Debug\Selenium2.csprojAssemblyReference.cache
+C:\Users\GreensTech5\source\repos\Selenium2\obj\Debug\Selenium2.csproj.CoreCompileInputs.cache
+C:\Users\GreensTech5\source\repos\Selenium2\obj\Debug\Selenium2.csproj.CopyComplete
+C:\Users\GreensTech5\source\repos\Selenium2\obj\Debug\Selenium2.exe
+C:\Users\GreensTech5\source\repos\Selenium2\obj\Debug\Selenium2.pdb
